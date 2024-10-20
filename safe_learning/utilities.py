@@ -10,7 +10,7 @@ Author: Felix Berkenkamp, Learning & Adaptive Systems Group, ETH Zurich
 
 from __future__ import division, print_function
 
-from collections import Sequence
+from collections.abc import Sequence
 
 import numpy as np
 import scipy as sp
